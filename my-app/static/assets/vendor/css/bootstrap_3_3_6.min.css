@@ -3223,8 +3223,8 @@ fieldset[disabled] .btn-default:hover {
 }
 .btn-primary:hover {
   color: #fff;
-  background-color: #08b324;
-  border-color: #08b324;
+  background-color: #f70808;
+  border-color: #b32208;
 }
 .btn-primary.active,
 .btn-primary:active,

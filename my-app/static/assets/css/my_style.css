@@ -192,7 +192,7 @@ tbody tr:hover {
 }
 
 .alert-success {
-  background-color: #48c808 !important;
+  background-color: #c81508 !important;
   color: #fff !important;
 }
 
@@ -200,7 +200,7 @@ tbody tr:hover {
   text-transform: uppercase !important;
 }
 .btn-primary {
-  background-color: #09c046 !important;
+  background-color: #f10505 !important;
   border: none !important;
 }
 .btn-close {
